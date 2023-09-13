@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/98h6d7aw40sqbnfo?svg=true)](https://ci.appveyor.com/project/OlyaMa/destructuring)
